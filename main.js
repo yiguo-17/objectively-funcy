@@ -1,26 +1,42 @@
-function getFirstName(person) {
+// Your code here.
+
+
+
+
+
+// Our code here. Don't touch!
+if (typeof getFirstName === 'undefined') {
+  getFirstName = undefined
 }
 
-function getLastName(person) {
+if (typeof getLastName === 'undefined') {
+  getLastName = undefined
 }
 
-function getFullName(person) {
+if (typeof getFullName === 'undefined') {
+  getFullName = undefined
 }
 
-function setFirstName(person, name) {
+if (typeof setFirstName === 'undefined') {
+  setFirstName = undefined
 }
 
-function setAge(person, age) {
+if (typeof setAge === 'undefined') {
+  setAge = undefined
 }
 
-function giveBirthday(person) {
+if (typeof giveBirthday === 'undefined') {
+  giveBirthday = undefined
 }
 
-function marry(person1, person2) {
+if (typeof marry === 'undefined') {
+  marry = undefined
 }
 
-function divorce(person1, person2) {
+if (typeof divorce === 'undefined') {
+  divorce = undefined
 }
+
 
 module.exports = {
   getFirstName,
