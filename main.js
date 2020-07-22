@@ -47,4 +47,4 @@ module.exports = {
   giveBirthday,
   marry,
   divorce,
-} 
+}
